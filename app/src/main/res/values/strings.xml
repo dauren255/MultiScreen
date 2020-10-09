@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="main_menu">Какой фильм хотели бы посмотреть?</string>
+    <string name="action_settings">Настройки</string>
+    <string name="enjoy">Приятного просмотра!</string>
+    <string name="godfather">Крестный отец</string>
+    <string name="vForVendetta">В значит Вендетта</string>
+    <string name="avengers">Мстители</string>
+    <string name="justiceLeague">Лига справедливости</string>
+</resources>
